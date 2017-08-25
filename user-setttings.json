@@ -1,0 +1,12 @@
+{
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "window.zoomLevel": 0,
+  "editor.fontSize": 15,
+  "editor.minimap.enabled": false,
+  "editor.renderIndentGuides": false,
+  "workbench.colorTheme": "Twilight"
+}
