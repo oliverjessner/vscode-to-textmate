@@ -8,5 +8,16 @@
   "editor.fontSize": 15,
   "editor.minimap.enabled": false,
   "editor.renderIndentGuides": false,
-  "workbench.colorTheme": "Twilight"
+  "workbench.colorTheme": "Twilight",
+  "editor.fontFamily": "Menlo",  
+  "editor.fontWeight": "100",
+  "files.exclude": {
+    "**/.git": true,
+    "**/package-lock.json": true,
+    "LICENSE": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  }
 }
