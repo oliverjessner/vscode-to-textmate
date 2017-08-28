@@ -4,21 +4,34 @@
     "comments": false,
     "strings": false
   },
-  "window.zoomLevel": 0,
+  "[json]":  {
+    "editor.quickSuggestions": {
+        "strings": false
+    }
+  },
+  "javascript.nameSuggestions": false,
+  "window.zoomLevel": 1,
   "editor.fontSize": 15,
   "editor.minimap.enabled": false,
   "editor.renderIndentGuides": false,
   "workbench.colorTheme": "Twilight",
   "editor.fontFamily": "Menlo",  
   "editor.fontWeight": "100",
+  "editor.wordWrap": "off",
   "files.exclude": {
     "**/.git": true,
     "**/package-lock.json": true,
     "LICENSE": true,
+    "report": true,
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true
   },
-  "workbench.activityBar.visible": false
+  "workbench.activityBar.visible": false,
+  "html.format.enable": false,
+  "html.format.preserveNewLines": false,
+  "editor.wordBasedSuggestions": false,
+  "editor.autoClosingBrackets": false,
+  "editor.suggestOnTriggerCharacters": false
 }
