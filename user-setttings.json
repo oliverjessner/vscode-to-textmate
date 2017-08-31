@@ -29,6 +29,7 @@
     "**/.DS_Store": true
   },
   "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
   "html.format.enable": false,
   "html.format.preserveNewLines": false,
   "editor.wordBasedSuggestions": false,
