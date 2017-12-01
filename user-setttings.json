@@ -21,6 +21,9 @@
   "editor.fontWeight": "100",
   "editor.wordWrap": "off",
   "files.exclude": {
+    ".gitignore": true,
+    ".jshintignore": true,
+    ".npmignore": true,
     ".vscode": true,
     "**/.git": true,
     "**/package-lock.json": true,
@@ -30,7 +33,9 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/CVS": true,
-    "**/.DS_Store": true
+    "**/.DS_Store": true,
+    "coverage/": true,
+    ".nyc_output/": true
   },
   "workbench.statusBar.visible": false,
   "workbench.activityBar.visible": false,
