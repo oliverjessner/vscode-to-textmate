@@ -22,6 +22,7 @@
   "editor.wordWrap": "off",
   "editor.parameterHints": false,
   "explorer.openEditors.visible": 0, 
+  "git.decorations.enabled": false,  
   "files.exclude": {
     ".gitignore": true,
     ".jshintignore": true,
