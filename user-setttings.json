@@ -20,6 +20,8 @@
   "editor.fontFamily": "Menlo",  
   "editor.fontWeight": "100",
   "editor.wordWrap": "off",
+  "editor.parameterHints": false,
+  "explorer.openEditors.visible": 0, 
   "files.exclude": {
     ".gitignore": true,
     ".jshintignore": true,
