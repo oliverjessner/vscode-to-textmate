@@ -13,6 +13,7 @@
   "javascript.validate.enable": false,
   "javascript.format.enable": false,
   "window.zoomLevel": 1,
+  "editor.lightbulb.enabled": false,    
   "editor.fontSize": 15,
   "editor.minimap.enabled": false,
   "editor.renderIndentGuides": false,
