@@ -1,51 +1,55 @@
 {
-  "editor.quickSuggestions": {
-    "other": false,
-    "comments": false,
-    "strings": false
-  },
-  "[json]":  {
     "editor.quickSuggestions": {
-        "strings": false
-    }
-  },
-  "javascript.nameSuggestions": false,
-  "javascript.validate.enable": false,
-  "javascript.format.enable": false,
-  "window.zoomLevel": 1,
-  "editor.lightbulb.enabled": false,    
-  "editor.fontSize": 15,
-  "editor.minimap.enabled": false,
-  "editor.renderIndentGuides": false,
-  "workbench.colorTheme": "Twilight",
-  "editor.fontFamily": "Menlo",  
-  "editor.fontWeight": "100",
-  "editor.wordWrap": "off",
-  "editor.parameterHints": false,
-  "explorer.openEditors.visible": 0, 
-  "git.decorations.enabled": false,  
-  "files.exclude": {
-    ".gitignore": true,
-    ".jshintignore": true,
-    ".npmignore": true,
-    ".vscode": true,
-    "**/.git": true,
-    "**/package-lock.json": true,
-    "LICENSE": true,
-    "report": true,
-    "**/node_modules": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true,
-    "coverage/": true,
-    ".nyc_output/": true
-  },
-  "workbench.statusBar.visible": false,
-  "workbench.activityBar.visible": false,
-  "html.format.enable": false,
-  "html.format.preserveNewLines": false,
-  "editor.wordBasedSuggestions": false,
-  "editor.autoClosingBrackets": false,
-  "editor.suggestOnTriggerCharacters": false
-}
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "[json]":  {
+      "editor.quickSuggestions": {
+          "strings": false
+      }
+    },
+    "editor.snippetSuggestions": false,
+    "javascript.nameSuggestions": false,
+    "javascript.validate.enable": false,
+    "javascript.format.enable": false,
+    "window.zoomLevel": 1,
+    "editor.fontSize": 15,
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
+    "workbench.colorTheme": "Twilight",
+    "editor.fontFamily": "Menlo",  
+    "editor.fontWeight": "100",
+    "editor.wordWrap": "off",
+    "editor.lightbulb.enabled": false,    
+    "editor.parameterHints": false,
+    "explorer.openEditors.visible": 0,  
+    "git.decorations.enabled": false,    
+    "files.exclude": {
+      ".gitignore": true,
+      ".jshintignore": true,
+      ".npmignore": true,
+      ".vscode": true,
+      "**/.git": true,
+      "**/package-lock.json": true,
+      "LICENSE": true,
+      "report": true,
+      "**/node_modules": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "coverage/": true,
+      ".nyc_output/": true
+    },
+    "git.enabled": false,
+    "git.autorefresh": false,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "html.format.enable": false,
+    "html.format.preserveNewLines": false,
+    "editor.wordBasedSuggestions": false,
+    "editor.autoClosingBrackets": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "explorer.confirmDragAndDrop": false
+  }
